@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Ekeko (2024)
-Ekeko is a Python-based backtesting platform for systematic trading. Unlike other libraries that focus on portfolio rebalancing or single-asset strategies, Ekeko allows for custom strategies to be written using numpy and pandas, providing a powerful and flexible tool for traders to evaluate and refine their approaches. The engine is built to perform efficient backtests and supports writing strategies tailored to various trading models.
+Ekeko is a Python-based backtesting platform for systematic trading. Unlike other libraries that focus on portfolio rebalancing or single-asset strategies, Ekeko allows to test strategies on multiple stocks with diferent time indices, providing a powerful and flexible tool for traders to evaluate and refine their approaches. Strategies can be built with numpy and pandas.
 
 **Tech Stack:** Python, numpy, pandas  
 **GitHub:** [Ekeko Repository](https://github.com/Nacho114/ekeko)  
